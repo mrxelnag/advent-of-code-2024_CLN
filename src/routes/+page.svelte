@@ -1,2 +1,11 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script lang="ts">
+
+
+
+</script>
+
+
+<div class="">
+    <h1>Advent of Code 2024</h1>
+    <p>Get ready for the coding challenge of the year!</p>
+</div>

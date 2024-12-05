@@ -1,5 +1,5 @@
-<nav class="">
-    <ul class="flex gap-4">
+<nav class="flex items-center justify-center">
+    <ul class="container flex items-center justify-center gap-4">
         <li>
             <a href="/">
                 Home
